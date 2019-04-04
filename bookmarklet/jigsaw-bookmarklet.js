@@ -1,3 +1,4 @@
+export var location;
 var boffo = function () {
     var doc = document,
         imgs = doc.images,

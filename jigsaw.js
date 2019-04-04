@@ -1,3 +1,5 @@
+export var d;
+export var e;
 window.Jigsaw = (function () {
     
 var SVG = 'http://www.w3.org/2000/svg';
