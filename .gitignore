@@ -3,5 +3,5 @@ dist
 *.zip
 10kjigsaw
 out.html
-*.min.*
+node_modules
 *.log

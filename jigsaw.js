@@ -1,3 +1,6 @@
+import ".\\jquery-1.4.2.min.js";
+import jquery142min_$ from ".\\jquery-1.4.2.min.js";
+export var d;
 window.Jigsaw = (function () {
     
 var SVG = 'http://www.w3.org/2000/svg';

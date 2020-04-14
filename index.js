@@ -1,3 +1,6 @@
+import ".\\jquery-1.4.2.min.js";
+import jquery142min_$ from ".\\jquery-1.4.2.min.js";
+var imElt;
 $(document).ready(function () {
     var escapeArgs = function (args) {
         var ss = [];

@@ -1,3 +1,5 @@
+import "..\\jquery-1.4.2.min.js";
+import jquery142min_$ from "..\\jquery-1.4.2.min.js";
 var boffo = function () {
     var doc = document,
         imgs = doc.images,
